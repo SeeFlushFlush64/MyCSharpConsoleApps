@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\bin\Debug\net8.0\BasicCalculator.exe
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\bin\Debug\net8.0\BasicCalculator.deps.json
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\bin\Debug\net8.0\BasicCalculator.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\bin\Debug\net8.0\BasicCalculator.dll
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\bin\Debug\net8.0\BasicCalculator.pdb
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.dll
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\refint\BasicCalculator.dll
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.pdb
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\BasicCalculator.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c# console applications\BasicCalculator\obj\Debug\net8.0\ref\BasicCalculator.dll
